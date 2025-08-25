@@ -1,3 +1,5 @@
+
+
 # Experiment Ideas
 
 ## Core Experiments
@@ -25,3 +27,4 @@
 
 **Must have:** Critical experiments for validation
 **Nice to have:** Additional experiments for robustness
+
