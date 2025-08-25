@@ -1,22 +1,4 @@
-dsd
-## Research Philosophy
-
-This project challenges fundamental assumptions about MHC presentation through systematic hypothesis testing, following Stanford's literature-level hypothesis methodology. Rather than building another descriptive tool, we aim to discover **why** certain proteins are immunologically invisible and reshape understanding of immune surveillance.
-
-## Core Research Hypotheses
-
-**Assumption to Challenge:** Current immunology assumes MHC presentation is primarily driven by protein abundance and random processing.
-
-**Novel Hypothesis:** MHC presentation bias is systematically determined by intrinsic protein structural features (disorder propensity, degradation motifs, subcellular localization) rather than abundance, creating predictable 'visibility classes.'
-
-**Impact:** Would reshape immune surveillance understanding, enable rational vaccine design, explain consistent pathogen immune evasion.
-
-### H002: Micro-protein Invisibility Hypothesis  
-**Assumption to Challenge:** All proteins are equally likely to contribute peptides per unit mass regardless of size.
-
-**Novel Hypothesis:** Small proteins (<100 amino acids) and cryptic ORFs are systematically under-represented despite high expression, due to insufficient proteasomal processing sites and rapid degradation kinetics.
-
-**Impact:** Would reveal immune surveillance blind spots affecting viral evasion, tumor neoantigens, autoimmunity.
+ts affecting viral evasion, tumor neoantigens, autoimmunity.
 
 ### H003: Tissue-Specific Antigenome Hypothesis
 **Assumption to Challenge:** Immunopeptidome findings from accessible tissues represent universal patterns.
