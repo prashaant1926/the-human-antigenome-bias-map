@@ -1,6 +1,6 @@
 
 
-## Core Experiments
+
 
 ### Experiment 1: Structural Determinism Validation (H001)
 
