@@ -1,4 +1,4 @@
-# 1. The Human Antigenome Bias Map
+# The Human Antigenome Bias Map
 
 **Core Question:** Which human proteins (including tiny or overlooked ones) are most often shown to the immune system on **MHC molecules** (the cell’s “billboards”), and which are almost never shown?
 
