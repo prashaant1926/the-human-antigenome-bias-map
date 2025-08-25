@@ -1,7 +1,5 @@
 
 
-# Experiment Ideas: Testing MHC Presentation Bias Hypotheses
-
 ## Core Experiments
 
 ### Experiment 1: Structural Determinism Validation (H001)
@@ -214,4 +212,3 @@
 **Total Estimated Cost:** $30K
 **Total Timeline:** 9 months
 **Expected Publications:** 2-3 high-impact papers + multiple follow-up studies
-
