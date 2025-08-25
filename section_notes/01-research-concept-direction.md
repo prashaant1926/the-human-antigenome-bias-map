@@ -5,7 +5,6 @@ This project challenges fundamental assumptions about MHC presentation through s
 
 ## Core Research Hypotheses
 
-### H001: Structural Determinism Hypothesis
 **Assumption to Challenge:** Current immunology assumes MHC presentation is primarily driven by protein abundance and random processing.
 
 **Novel Hypothesis:** MHC presentation bias is systematically determined by intrinsic protein structural features (disorder propensity, degradation motifs, subcellular localization) rather than abundance, creating predictable 'visibility classes.'
