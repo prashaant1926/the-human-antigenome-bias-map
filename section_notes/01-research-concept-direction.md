@@ -1,3 +1,5 @@
+
+
 # The Human Antigenome Bias Map
 
 **Core Question:** Which human proteins (including tiny or overlooked ones) are most often shown to the immune system on **MHC molecules** (the cell’s “billboards”), and which are almost never shown?
@@ -22,3 +24,4 @@
 * A searchable map of all proteins and their “MHC visibility score.”
 * Explanations (“Protein X is invisible likely because it’s very stable and sits in mitochondria”).
 * A shortlist of **testable experiments** (e.g. “adding a degron should make Protein Y visible”).
+
