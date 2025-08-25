@@ -1,6 +1,7 @@
 ts affecting viral evasion, tumor neoantigens, autoimmunity.
 
 ### H003: Tissue-Specific Antigenome Hypothesis
+
 **Assumption to Challenge:** Immunopeptidome findings from accessible tissues represent universal patterns.
 
 **Novel Hypothesis:** Each tissue has fundamentally different 'antigenome signatures' based on unique proteasomal activity, stress responses, metabolic states.
@@ -8,6 +9,7 @@ ts affecting viral evasion, tumor neoantigens, autoimmunity.
 **Impact:** Would transform precision immunotherapy requiring tissue-specific strategies.
 
 ### H004: Dynamic Stress-Response Antigenome Hypothesis
+
 **Assumption to Challenge:** MHC presentation remains relatively stable across cellular states.
 
 **Novel Hypothesis:** Cellular stress fundamentally rewires the antigenome by altering proteasomal targeting, revealing normally 'invisible' proteins.
@@ -17,11 +19,13 @@ ts affecting viral evasion, tumor neoantigens, autoimmunity.
 ## Methodological Approach
 
 ### Phase 1: Establish the Priors
-- Systematic literature review identifying implicit assumptions about MHC presentation
-- Map contradictions and gaps in current models
-- Document tissue-specific and context-dependent findings
+
+* Systematic literature review identifying implicit assumptions about MHC presentation
+* Map contradictions and gaps in current models
+* Document tissue-specific and context-dependent findings
 
 ### Phase 2: Hypothesis Testing Framework
+
 1. **Data Integration**: Collect comprehensive MHC peptide datasets across tissues, conditions, disease states
 2. **Structural Analysis**: Integrate protein disorder, degradation signals, localization predictions
 3. **Bias Quantification**: Calculate presentation scores normalized for abundance, size, turnover
@@ -29,9 +33,10 @@ ts affecting viral evasion, tumor neoantigens, autoimmunity.
 5. **Validation Experiments**: Design targeted experiments to test specific predictions
 
 ### Phase 3: Impact Validation
-- Demonstrate how findings affect existing immunotherapy approaches  
-- Show predictive power for vaccine design and immune evasion
-- Validate tissue-specific and dynamic presentation patterns
+
+* Demonstrate how findings affect existing immunotherapy approaches
+* Show predictive power for vaccine design and immune evasion
+* Validate tissue-specific and dynamic presentation patterns
 
 ## Research Vectoring Strategy
 
@@ -39,29 +44,32 @@ ts affecting viral evasion, tumor neoantigens, autoimmunity.
 
 **Critical Validation:** Can we predict which proteins will be over/under-represented based solely on structural features, independent of abundance data?
 
-**Failure Modes:** 
-- If patterns are purely stochastic (no structural determinism)
-- If tissue differences are minimal (no tissue specificity)  
-- If dynamic changes are marginal (no stress rewiring)
+**Failure Modes:**
+
+* If patterns are purely stochastic (no structural determinism)
+* If tissue differences are minimal (no tissue specificity)
+* If dynamic changes are marginal (no stress rewiring)
 
 ## Expected Deliverables
 
 ### Immediate Outputs
-- Comprehensive human antigenome bias map with mechanistic explanations
-- Predictive models for protein visibility based on structural features
-- Tissue-specific antigenome signatures
-- Dynamic presentation patterns under cellular stress
+
+* Comprehensive human antigenome bias map with mechanistic explanations
+* Predictive models for protein visibility based on structural features
+* Tissue-specific antigenome signatures
+* Dynamic presentation patterns under cellular stress
 
 ### Long-term Impact
-- Paradigm shift from abundance-based to structure-based understanding of immune presentation
-- Rational design principles for vaccines targeting 'invisible' proteins
-- Precision immunotherapy strategies based on tissue-specific antigenomes
-- Temporal intervention windows based on dynamic presentation patterns
+
+* Paradigm shift from abundance-based to structure-based understanding of immune presentation
+* Rational design principles for vaccines targeting 'invisible' proteins
+* Precision immunotherapy strategies based on tissue-specific antigenomes
+* Temporal intervention windows based on dynamic presentation patterns
 
 ## Experimental Validation Pipeline
 
 1. **Structural Predictions**: Test whether disorder/degradation motifs predict under-representation
-2. **Size Effects**: Validate micro-protein invisibility through targeted MS analysis  
+2. **Size Effects**: Validate micro-protein invisibility through targeted MS analysis
 3. **Tissue Specificity**: Compare antigenomes across multiple tissue types
 4. **Dynamic Changes**: Map presentation changes under defined stress conditions
 5. **Therapeutic Validation**: Test predictions in relevant disease models
