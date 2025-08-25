@@ -1,54 +1,5 @@
 
 
-# The Human Antigenome Bias Map: A Hypothesis-Driven Research Framework
-
-## Research Philosophy
-
-This project challenges fundamental assumptions about MHC presentation through systematic hypothesis testing, following Stanford's literature-level hypothesis methodology. Rather than building another descriptive tool, we aim to discover **why** certain proteins are immunologically invisible and reshape understanding of immune surveillance.
-
-## Core Research Hypotheses
-
-### H001: Structural Determinism Hypothesis
-**Assumption to Challenge:** Current immunology assumes MHC presentation is primarily driven by protein abundance and random processing.
-
-**Novel Hypothesis:** MHC presentation bias is systematically determined by intrinsic protein structural features (disorder propensity, degradation motifs, subcellular localization) rather than abundance, creating predictable 'visibility classes.'
-
-**Specific Predictions:**
-- Proteins with >40% intrinsic disorder will show 2-5x under-representation despite normal abundance
-- Proteins with degradation signals (PEST sequences, degrons) will have 3-8x higher presentation rates
-- Nuclear proteins will be 10-20x under-represented compared to cytoplasmic proteins of equal abundance
-- Structural features will explain ≥60% of presentation variance (vs. <20% for abundance alone)
-
-**Falsifiability Criteria:** 
-- If structural features explain <30% of presentation variance
-- If abundance remains the dominant predictor (>50% variance explained)
-- If visibility classes cannot be distinguished with >80% accuracy using structural features alone
-
-**Mechanistic Basis:** Proteasomal targeting depends on protein folding states, with misfolded/disordered regions preferentially degraded. Subcellular compartmentalization controls proteasome accessibility. Specific degradation signals (N-degrons, C-degrons, PEST) directly recruit E3 ligases.
-
-**Impact:** Would reshape immune surveillance understanding, enable rational vaccine design, explain consistent pathogen immune evasion.
-
-### H002: Micro-protein Invisibility Hypothesis  
-**Assumption to Challenge:** All proteins are equally likely to contribute peptides per unit mass regardless of size.
-
-**Novel Hypothesis:** Small proteins (<100 amino acids) and cryptic ORFs are systematically under-represented despite high expression, due to insufficient proteasomal processing sites and rapid degradation kinetics.
-
-**Specific Predictions:**
-- Proteins <50 amino acids will show 5-20x under-representation per unit mass
-- Proteins 50-100 amino acids will show 2-5x under-representation 
-- Under-representation inversely correlates with protein length (R² > 0.7)
-- Micro-proteins with engineered cleavage sites will restore normal presentation levels
-- Cryptic ORFs in viral genomes will be systematically under-detected by immune surveillance
-
-**Falsifiability Criteria:**
-- If proteins <100 amino acids show normal or over-representation per unit mass
-- If length shows no correlation with presentation efficiency (R² < 0.3)
-- If engineered cleavage sites fail to rescue micro-protein presentation
-
-**Mechanistic Basis:** Proteasomal processing requires minimum substrate length for efficient recognition. Small proteins lack sufficient cleavage sites to generate 8-12 amino acid peptides. Rapid degradation through non-proteasomal pathways (autophagy, direct peptidases) bypasses MHC loading.
-
-**Impact:** Would reveal immune surveillance blind spots affecting viral evasion, tumor neoantigens, autoimmunity.
-
 ### H003: Tissue-Specific Antigenome Hypothesis
 **Assumption to Challenge:** Immunopeptidome findings from accessible tissues represent universal patterns.
 
