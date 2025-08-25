@@ -1,3 +1,4 @@
+
 ## Research Philosophy
 
 This project challenges fundamental assumptions about MHC presentation through systematic hypothesis testing, following Stanford's literature-level hypothesis methodology. Rather than building another descriptive tool, we aim to discover **why** certain proteins are immunologically invisible and reshape understanding of immune surveillance.
