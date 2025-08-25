@@ -1,3 +1,5 @@
+
+
 # The Human Antigenome Bias Map: A Hypothesis-Driven Research Framework
 
 ## Research Philosophy
@@ -85,3 +87,4 @@ This project challenges fundamental assumptions about MHC presentation through s
 3. **Tissue Specificity**: Compare antigenomes across multiple tissue types
 4. **Dynamic Changes**: Map presentation changes under defined stress conditions
 5. **Therapeutic Validation**: Test predictions in relevant disease models
+
